@@ -38,3 +38,5 @@ server.Start(socket =>
 var input = Console.ReadLine();
 server.Dispose();
 ```
+
+[Video de funcionamiento](https://www.youtube.com/watch?v=Yis2IYpZcsw&ab_channel=EduardoBorgia).
